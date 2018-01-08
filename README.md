@@ -1,4 +1,4 @@
-# Speech Recognition with c++
+# Speech Recognition with C++
 This is a simple C++ program that converts 
 speech to text and recognise 
 sound wave graph between 
